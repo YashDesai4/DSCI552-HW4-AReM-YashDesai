@@ -1,0 +1,8 @@
+class,one_vs_rest_auc
+bending1,1.0
+bending2,1.0
+cycling,1.0
+lying,0.9583333333333334
+sitting,1.0
+standing,0.875
+walking,1.0

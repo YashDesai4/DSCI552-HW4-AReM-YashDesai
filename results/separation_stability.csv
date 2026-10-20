@@ -1,0 +1,4 @@
+tolerance,coefficient_L2_norm,iterations,train_accuracy
+0.0001,14.266868154771199,13,1.0
+1e-07,32.83676154819754,23,1.0
+1e-10,51.16174424816905,34,1.0

@@ -1,0 +1,11 @@
+Verification completed:
+17 notebook code cells executed sequentially without an exception.
+13 figure outputs embedded in the notebook and saved as PNG files.
+All 88 source CSV recordings included; fixed split: 69 train, 19 test.
+Every l from 1 through 20 searched for each model family.
+No convergence warnings recorded in model fitting.
+All numerical prose checked against saved tables.
+Python source compiled successfully.
+Feature extraction dimensions and finite values asserted in notebook.
+Train/test and CV split disjointness asserted in notebook.
+Multiclass probability row sums asserted in notebook.
